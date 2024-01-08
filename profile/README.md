@@ -7,7 +7,7 @@
 원티드 채용공고를 기반으로 개발 직무에 대한 궁금증을 해결해 드립니다.
 
 🤖 **자비스**를 써 보고 싶다면? 불러봐요 👉🗣️ ["자비스!"](https://jungpark.notion.site/Job-is-459f98d1d25d4f1f8071c4aeb7e861d1?pvs=4)
-👩‍💻 자비스 개발자에게 궁금한 점이 있다면? 
+👩‍💻 자비스 개발자에게 궁금한 점이 있다면? <br>
 개발자 email 📧 `parksso0530@gmail.com` `sang596332@gmail.com` `chan8285@gmail.com` `osw9594@gmail.com`
 
 <!--
